@@ -6,7 +6,7 @@ Loads the dependency-free [`aidisclose.js`](https://aidisclose.io/docs/snippet/)
 
 - `template.tpl` — the sandboxed GTM Custom Template.
 - `metadata.yaml` — gallery metadata (fill in the commit SHA before submitting).
-- `LICENSE` — MIT.
+- `LICENSE` — Apache 2.0 (required by the GTM gallery).
 
 ## Publish to the Community Template Gallery
 
