@@ -1,4 +1,4 @@
 homepage: https://aidisclose.io
 versions:
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 272ce314b4a499c3993fa172299adfde6e13a291
     changeNotes: Initial release. Loads aidisclose.js — AI-disclosure banner, AI-content labels, and machine-readable manifest, in 28 languages.
