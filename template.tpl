@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "AIDisclose — AI Disclosure",
+  "categories": ["UTILITY"],
   "brand": {
     "id": "brand_aidisclose",
     "displayName": "AIDisclose"
